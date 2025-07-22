@@ -1,9 +1,11 @@
+using System.Text.RegularExpressions;
 using LuckyBot.Event;
 using LuckyBot.Helper;
 using LuckyBot.Models;
 using LuckyBot.Plugins;
 using LuckyBotTe.Manager;
 using LuckyBotTe.Utils;
+using Newtonsoft.Json;
 
 namespace LuckyBotTe.Plu;
 

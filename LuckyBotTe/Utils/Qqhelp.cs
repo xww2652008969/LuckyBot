@@ -1,5 +1,7 @@
+using System.Text.RegularExpressions;
 using LuckyBot.Models;
 using Microsoft.VisualBasic;
+using static System.Text.RegularExpressions.Regex;
 
 namespace LuckyBotTe.Utils;
 

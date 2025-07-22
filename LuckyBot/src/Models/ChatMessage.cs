@@ -56,9 +56,9 @@ namespace LuckyBot.Models
             return AddMessage(MessageType.MsgTypeMusic, payload);
         }
 
-        public ChatMessage AddFile(string url)
+        public ChatMessage AddFile(string url, string name)
         {
-            var payload = new MessagePayload { File = url };
+            var payload = new MessagePayload { File = url, Name = name };
             return AddMessage(MessageType.MsgTypeFile, payload);
         }
 
