@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyBot", "LuckyBot\LuckyBot.csproj", "{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyBotTe", "LuckyBotTe\LuckyBotTe.csproj", "{95DF1C6B-0A7A-4A45-8DAC-C28756673873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDDD680-0AD0-4DB9-B2E7-C8F1A8D89FB6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95DF1C6B-0A7A-4A45-8DAC-C28756673873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DF1C6B-0A7A-4A45-8DAC-C28756673873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DF1C6B-0A7A-4A45-8DAC-C28756673873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DF1C6B-0A7A-4A45-8DAC-C28756673873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DF1C6B-0A7A-4A45-8DAC-C28756673873}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
